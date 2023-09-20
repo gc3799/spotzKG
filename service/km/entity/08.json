@@ -1,0 +1,59 @@
+{
+  "$id": "service_08",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://spotzerdigital.com/solutions/sales-as-a-service/",
+    "name": "Sales as a Service",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 199,
+          "sourceUrl": "https://a.mktgcdn.com/p/P98F7NoWqaEk-e2De2EVoAgLghJFvhbf6kSbuuMaFWk/232x199.png",
+          "thumbnails": [
+            {
+              "height": 199,
+              "url": "https://a.mktgcdn.com/p-sandbox/P98F7NoWqaEk-e2De2EVoAgLghJFvhbf6kSbuuMaFWk/232x199.png",
+              "width": 232
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/P98F7NoWqaEk-e2De2EVoAgLghJFvhbf6kSbuuMaFWk/232x199.png",
+          "width": 232
+        }
+      }
+    ],
+    "richTextDescriptionV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Improve your sales without expanding your in-house team. We can help you sell additional digital products to your customers, including E-commerce or ads.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    }
+  },
+  "entityType": "product",
+  "labels": []
+}

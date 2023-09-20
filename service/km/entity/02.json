@@ -1,0 +1,63 @@
+{
+  "$id": "service_02",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "keywords": [
+      "WordPress",
+      "WP"
+    ],
+    "landingPageUrl": "https://spotzerdigital.com/solutions/websites/",
+    "name": "Wordpress",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 192,
+          "sourceUrl": "https://a.mktgcdn.com/p/jRik4qdZMy21_-BIFer--6XTuaviHqbGNLaz_68zkVA/233x192.png",
+          "thumbnails": [
+            {
+              "height": 192,
+              "url": "https://a.mktgcdn.com/p-sandbox/jRik4qdZMy21_-BIFer--6XTuaviHqbGNLaz_68zkVA/233x192.png",
+              "width": 233
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jRik4qdZMy21_-BIFer--6XTuaviHqbGNLaz_68zkVA/233x192.png",
+          "width": 233
+        }
+      }
+    ],
+    "richTextDescriptionV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Premium white-label websites powered by WordPress. Inclusive of industry-tailored copywriting and professional design. E-commerce options available.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    }
+  },
+  "entityType": "product",
+  "labels": []
+}

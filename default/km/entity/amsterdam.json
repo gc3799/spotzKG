@@ -1,0 +1,21 @@
+{
+  "$id": "amsterdam",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Amsterdam",
+      "countryCode": "NL",
+      "line1": "Jacob Bontiusplaats 9",
+      "postalCode": "1018 LL"
+    },
+    "emails": [
+      "partner@spotzer.com"
+    ],
+    "mainPhone": "+31203054100",
+    "name": "Amsterdam",
+    "timezone": "Europe/Amsterdam"
+  },
+  "entityType": "location",
+  "labels": []
+}

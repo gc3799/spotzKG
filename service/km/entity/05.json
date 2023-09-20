@@ -1,0 +1,65 @@
+{
+  "$id": "service_05",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "keywords": [
+      "Search",
+      "Listing",
+      "SEM",
+      "Search Engine Marketing"
+    ],
+    "landingPageUrl": "https://spotzerdigital.com/solutions/search-engine-advertising/",
+    "name": "Paid Search",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 225,
+          "sourceUrl": "https://a.mktgcdn.com/p/ABl7DEOXVwcJZYPbNUCCukvr9BeI9JPrKRc6Ha76ct4/232x225.png",
+          "thumbnails": [
+            {
+              "height": 225,
+              "url": "https://a.mktgcdn.com/p-sandbox/ABl7DEOXVwcJZYPbNUCCukvr9BeI9JPrKRc6Ha76ct4/232x225.png",
+              "width": 232
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ABl7DEOXVwcJZYPbNUCCukvr9BeI9JPrKRc6Ha76ct4/232x225.png",
+          "width": 232
+        }
+      }
+    ],
+    "richTextDescriptionV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Maximise your time and ad budget. Our search marketing solutions are automated, operating on real data, not guesses and biases.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    }
+  },
+  "entityType": "product",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "c_fAQAnswers",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "FAQAnswers",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "richTextV2Type": {
+      "maxLength": 100000
+    }
+  },
+  "typeId": "richTextV2"
+}

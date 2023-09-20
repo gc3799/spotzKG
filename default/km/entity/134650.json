@@ -1,0 +1,32 @@
+{
+  "$id": "134650",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "nl",
+  "content": {
+    "applicationUrl": "https://spotzer.recruitee.com/o/digital-designer",
+    "datePosted": "2023-08-25",
+    "description": "Digital Designer",
+    "displayCoordinate": {
+      "latitude": 52.3675734,
+      "longitude": 4.9041389
+    },
+    "employmentType": "FULL_TIME",
+    "location": {
+      "externalLocation": "Amsterdam, NH, NL"
+    },
+    "name": "Digital Designer",
+    "workRemote": false,
+    "yextBoundingBox": {
+      "northEast": {
+        "latitude": 52.4311573,
+        "longitude": 5.0791619
+      },
+      "southWest": {
+        "latitude": 52.278174,
+        "longitude": 4.7287589
+      }
+    }
+  },
+  "entityType": "job",
+  "labels": []
+}

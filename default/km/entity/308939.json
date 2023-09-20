@@ -1,0 +1,37 @@
+{
+  "$id": "308939",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "applicationUrl": "https://spotzer.recruitee.com/o/australian-freelance-copywriter",
+    "datePosted": "2023-07-19",
+    "description": "We are Spotzer Digital, an International Marketing \u0026amp; Technology agency based in Melbourne CBD. We create websites, blogs, and other SEO content for small to medium businesses across Australia.\nWe",
+    "displayCoordinate": {
+      "latitude": -37.8136276,
+      "longitude": 144.9630576
+    },
+    "employmentType": "CONTRACTOR",
+    "keywords": [
+      "SEO writer",
+      "copywriting",
+      "freelance writing"
+    ],
+    "location": {
+      "externalLocation": "Melbourne, VIC, AU"
+    },
+    "name": "Australian Freelance Copywriter",
+    "workRemote": true,
+    "yextBoundingBox": {
+      "northEast": {
+        "latitude": -37.5112737,
+        "longitude": 145.5125288
+      },
+      "southWest": {
+        "latitude": -38.4338593,
+        "longitude": 144.5937418
+      }
+    }
+  },
+  "entityType": "job",
+  "labels": []
+}

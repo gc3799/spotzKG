@@ -1,0 +1,32 @@
+{
+  "$id": "1257794",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "nl",
+  "content": {
+    "applicationUrl": "https://spotzer.recruitee.com/o/italian-social-media-copywriter-proofreader-freelance",
+    "datePosted": "2023-07-18",
+    "description": "Spotzer is a fast-paced, rapidly growing, global digital marketing business. Headquartered out of Amsterdam, we are serving tens of\n\nthousands of businesses across the world by building their websites",
+    "displayCoordinate": {
+      "latitude": 52.3675734,
+      "longitude": 4.9041389
+    },
+    "employmentType": "CONTRACTOR",
+    "location": {
+      "externalLocation": "Amsterdam, NH, NL"
+    },
+    "name": "Italian Social Media Copywriter / Proofreader - Freelance",
+    "workRemote": true,
+    "yextBoundingBox": {
+      "northEast": {
+        "latitude": 52.4311573,
+        "longitude": 5.0791619
+      },
+      "southWest": {
+        "latitude": 52.278174,
+        "longitude": 4.7287589
+      }
+    }
+  },
+  "entityType": "job",
+  "labels": []
+}

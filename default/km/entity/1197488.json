@@ -1,0 +1,32 @@
+{
+  "$id": "1197488",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "applicationUrl": "https://spotzer.recruitee.com/o/german-speaking-digital-account-manager",
+    "datePosted": "2023-07-10",
+    "description": "Spotzer is a rapidly growing digital marketing business headquartered out of Amsterdam, with global offices in Melbourne and Manila. Our mission is to help small and medium businesses grow through our",
+    "displayCoordinate": {
+      "latitude": 52.3675734,
+      "longitude": 4.9041389
+    },
+    "employmentType": "FULL_TIME",
+    "location": {
+      "externalLocation": "Amsterdam, NH, NL"
+    },
+    "name": "German Speaking Digital Account Manager",
+    "workRemote": false,
+    "yextBoundingBox": {
+      "northEast": {
+        "latitude": 52.4311573,
+        "longitude": 5.0791619
+      },
+      "southWest": {
+        "latitude": 52.278174,
+        "longitude": 4.7287589
+      }
+    }
+  },
+  "entityType": "job",
+  "labels": []
+}

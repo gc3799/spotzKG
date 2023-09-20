@@ -1,0 +1,17 @@
+{
+  "$id": "faq_01",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "keywords": [
+      "Office",
+      "office location",
+      "business location"
+    ],
+    "landingPageUrl": "https://spotzerdigital.com/contact-us/",
+    "name": "Where are Spotzer\u0027s offices located?",
+    "question": "Where are Spotzer\u0027s offices located?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

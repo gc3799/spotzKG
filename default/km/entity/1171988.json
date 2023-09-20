@@ -1,0 +1,32 @@
+{
+  "$id": "1171988",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "applicationUrl": "https://spotzer.recruitee.com/o/sales-development-representative-us-market-amsterdam",
+    "datePosted": "2023-03-24",
+    "description": "Sales Development Representative - US Market (English Speaker)",
+    "displayCoordinate": {
+      "latitude": 52.3675734,
+      "longitude": 4.9041389
+    },
+    "employmentType": "FULL_TIME",
+    "location": {
+      "externalLocation": "Amsterdam, NH, NL"
+    },
+    "name": "Sales Development Representative - US Market",
+    "workRemote": false,
+    "yextBoundingBox": {
+      "northEast": {
+        "latitude": 52.4311573,
+        "longitude": 5.0791619
+      },
+      "southWest": {
+        "latitude": 52.278174,
+        "longitude": 4.7287589
+      }
+    }
+  },
+  "entityType": "job",
+  "labels": []
+}

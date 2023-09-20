@@ -1,0 +1,22 @@
+{
+  "$id": "melbourne",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Melbourne",
+      "countryCode": "AU",
+      "line1": "Level 6, 303 Collins Street",
+      "postalCode": "3000",
+      "region": "VIC"
+    },
+    "emails": [
+      "partner@spotzer.com"
+    ],
+    "mainPhone": "+31203054100",
+    "name": "Melbourne",
+    "timezone": "Australia/Melbourne"
+  },
+  "entityType": "location",
+  "labels": []
+}

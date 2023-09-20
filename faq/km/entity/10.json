@@ -1,0 +1,18 @@
+{
+  "$id": "faq_10",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "keywords": [
+      "apply",
+      "application process",
+      "vacancies",
+      "jobs"
+    ],
+    "landingPageUrl": "https://spotzerdigital.com/careers/",
+    "name": "How do I apply?",
+    "question": "How do I apply?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

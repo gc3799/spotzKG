@@ -1,0 +1,11 @@
+{
+  "$id": "faq_08",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "nl",
+  "content": {
+    "name": "How much do you charge for services?",
+    "question": "How much do you charge for services?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

@@ -1,0 +1,32 @@
+{
+  "$id": "1384684",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "nl",
+  "content": {
+    "applicationUrl": "https://spotzer.recruitee.com/o/sales-development-representative-nederlandse-markt",
+    "datePosted": "2023-08-14",
+    "description": "🌟 Ben jij een sales genie? 🌟\nWil je deel uitmaken van een internationaal team in het bruisende Amsterdam? Heb je een passie voor het helpen van bedrijven om te groeien door middel van digitale marketi",
+    "displayCoordinate": {
+      "latitude": 52.3675734,
+      "longitude": 4.9041389
+    },
+    "employmentType": "FULL_TIME",
+    "location": {
+      "externalLocation": "Amsterdam, NH, NL"
+    },
+    "name": "Sales Development Representative - Nederlandse Markt",
+    "workRemote": false,
+    "yextBoundingBox": {
+      "northEast": {
+        "latitude": 52.4311573,
+        "longitude": 5.0791619
+      },
+      "southWest": {
+        "latitude": 52.278174,
+        "longitude": 4.7287589
+      }
+    }
+  },
+  "entityType": "job",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "faq_06",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "keywords": [
+      "Portfolio",
+      "testimonials",
+      "cases",
+      "success stories"
+    ],
+    "landingPageUrl": "https://spotzerdigital.com/for-enterprises/",
+    "name": "Do you have a portfolio or samples of past client work?",
+    "question": "Do you have a portfolio or samples of past client work?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

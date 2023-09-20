@@ -1,0 +1,12 @@
+{
+  "$id": "2707695063094923847",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://spotzerdigital.com/our-team/",
+    "name": "Who is the CEO?",
+    "question": "Who is the CEO?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

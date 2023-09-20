@@ -1,0 +1,32 @@
+{
+  "$id": "906806",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "applicationUrl": "https://spotzer.recruitee.com/o/seo-coordinator-customer-support",
+    "datePosted": "2023-06-27",
+    "description": "About the business\nSpotzer Digital is a fast paced, rapidly growing, global digital marketing business. We specialise in websites and digital marketing solutions.\nHeadquartered out of Amsterdam, we ar",
+    "displayCoordinate": {
+      "latitude": -37.8136276,
+      "longitude": 144.9630576
+    },
+    "employmentType": "FULL_TIME",
+    "location": {
+      "externalLocation": "Melbourne, ACT, AU"
+    },
+    "name": "SEO Coordinator \u0026 Customer Support",
+    "workRemote": false,
+    "yextBoundingBox": {
+      "northEast": {
+        "latitude": -37.5112737,
+        "longitude": 145.5125288
+      },
+      "southWest": {
+        "latitude": -38.4338593,
+        "longitude": 144.5937418
+      }
+    }
+  },
+  "entityType": "job",
+  "labels": []
+}

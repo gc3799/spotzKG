@@ -1,0 +1,59 @@
+{
+  "$id": "service_10",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://spotzerdigital.com/solutions/",
+    "name": "Online business listings",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 175,
+          "sourceUrl": "https://a.mktgcdn.com/p/hobFSuLoR09CFdAf2YXxZ4_QFTWkVwwr8GUKWA5izjI/223x175.png",
+          "thumbnails": [
+            {
+              "height": 175,
+              "url": "https://a.mktgcdn.com/p-sandbox/hobFSuLoR09CFdAf2YXxZ4_QFTWkVwwr8GUKWA5izjI/223x175.png",
+              "width": 223
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hobFSuLoR09CFdAf2YXxZ4_QFTWkVwwr8GUKWA5izjI/223x175.png",
+          "width": 223
+        }
+      }
+    ],
+    "richTextDescriptionV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Help your customers reach new clients with our professionally-run business listings. We are a Google My Business strategic partner.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    }
+  },
+  "entityType": "product",
+  "labels": []
+}

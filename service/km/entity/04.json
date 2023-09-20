@@ -1,0 +1,79 @@
+{
+  "$id": "service_04",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "keywords": [
+      "SEO",
+      "Search Optimization",
+      "Content marketing"
+    ],
+    "landingPageUrl": "https://spotzerdigital.com/solutions/seo/",
+    "name": "SEO \u0026 Power Content",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 96,
+          "sourceUrl": "https://a.mktgcdn.com/p/9Gxdk8txJitSba5hpgYe4YajUwMNNpRettb3rrmhyzE/93x96.png",
+          "thumbnails": [
+            {
+              "height": 96,
+              "url": "https://a.mktgcdn.com/p-sandbox/9Gxdk8txJitSba5hpgYe4YajUwMNNpRettb3rrmhyzE/93x96.png",
+              "width": 93
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9Gxdk8txJitSba5hpgYe4YajUwMNNpRettb3rrmhyzE/93x96.png",
+          "width": 93
+        }
+      },
+      {
+        "image": {
+          "height": 222,
+          "sourceUrl": "https://a.mktgcdn.com/p/y37gcBnXeEKaPzCN4EGoNbqzi3ZKneAZrr9Q1ciLwQY/232x222.png",
+          "thumbnails": [
+            {
+              "height": 222,
+              "url": "https://a.mktgcdn.com/p-sandbox/y37gcBnXeEKaPzCN4EGoNbqzi3ZKneAZrr9Q1ciLwQY/232x222.png",
+              "width": 232
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/y37gcBnXeEKaPzCN4EGoNbqzi3ZKneAZrr9Q1ciLwQY/232x222.png",
+          "width": 232
+        }
+      }
+    ],
+    "richTextDescriptionV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "We put your clients at the centre of the conversation. Boost the online visibility of SMBs with blog posts, landing pages, or full-scale website SEO plans.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    }
+  },
+  "entityType": "product",
+  "labels": []
+}

@@ -1,0 +1,65 @@
+{
+  "$id": "2981664041881830069",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "keywords": [
+      "Search",
+      "Website",
+      "Visibility",
+      "SEO"
+    ],
+    "landingPageUrl": "https://spotzerdigital.com/yext-business-solutions/",
+    "name": "Yext Business Solutions",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 192,
+          "sourceUrl": "https://a.mktgcdn.com/p/b312Tj6l57oht9zt_w072MCF0WHVBe980_Glbt-g1cw/196x192.png",
+          "thumbnails": [
+            {
+              "height": 192,
+              "url": "https://a.mktgcdn.com/p-sandbox/b312Tj6l57oht9zt_w072MCF0WHVBe980_Glbt-g1cw/196x192.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/b312Tj6l57oht9zt_w072MCF0WHVBe980_Glbt-g1cw/196x192.png",
+          "width": 196
+        }
+      }
+    ],
+    "richTextDescriptionV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Create seamless digital experiences with an AI powered Answer platform to deliver relevant, actionable answers when your site visitors search for answers.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    }
+  },
+  "entityType": "product",
+  "labels": []
+}

@@ -1,0 +1,32 @@
+{
+  "$id": "1207293",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "applicationUrl": "https://spotzer.recruitee.com/o/sales-manager",
+    "datePosted": "2023-07-04",
+    "description": "Overview:\nSpotzer Digital is a rapidly growing digital marketing business headquartered out of Amsterdam, with global offices in Melbourne and Manila. Our mission is to help small and medium businesse",
+    "displayCoordinate": {
+      "latitude": -37.8136276,
+      "longitude": 144.9630576
+    },
+    "employmentType": "FULL_TIME",
+    "location": {
+      "externalLocation": "Melbourne, VIC, AU"
+    },
+    "name": "Sales Manager",
+    "workRemote": false,
+    "yextBoundingBox": {
+      "northEast": {
+        "latitude": -37.5112737,
+        "longitude": 145.5125288
+      },
+      "southWest": {
+        "latitude": -38.4338593,
+        "longitude": 144.5937418
+      }
+    }
+  },
+  "entityType": "job",
+  "labels": []
+}

@@ -1,0 +1,32 @@
+{
+  "$id": "978487",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "applicationUrl": "https://spotzer.recruitee.com/o/freelance-german-copywriter-proofreader",
+    "datePosted": "2023-07-18",
+    "description": "We are looking for a German Freelance Copywriter and a German Freelance Proofreader who can work remotely and help us deliver insightful, creative copy to our small business clients. You will be commu",
+    "displayCoordinate": {
+      "latitude": 52.5200066,
+      "longitude": 13.404954
+    },
+    "employmentType": "CONTRACTOR",
+    "location": {
+      "externalLocation": "Berlin, BE, DE"
+    },
+    "name": "Freelance German Copywriter / Proofreader",
+    "workRemote": true,
+    "yextBoundingBox": {
+      "northEast": {
+        "latitude": 52.6754542,
+        "longitude": 13.7611175
+      },
+      "southWest": {
+        "latitude": 52.338234,
+        "longitude": 13.088346
+      }
+    }
+  },
+  "entityType": "job",
+  "labels": []
+}

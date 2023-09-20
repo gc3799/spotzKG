@@ -1,0 +1,17 @@
+{
+  "$id": "faq_07",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "keywords": [
+      "marketing experience",
+      "expertise",
+      "work experience"
+    ],
+    "landingPageUrl": "https://spotzerdigital.com/about-spotzer/",
+    "name": "How long have you been building SEO and SEM campaigns?",
+    "question": "How long have you been building SEO and SEM campaigns?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

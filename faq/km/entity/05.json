@@ -1,0 +1,16 @@
+{
+  "$id": "faq_05",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "keywords": [
+      "Company culture",
+      "values"
+    ],
+    "landingPageUrl": "https://spotzerdigital.com/solutions/",
+    "name": "What are Spotzer\u0027s values?",
+    "question": "What are Spotzer\u0027s values?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

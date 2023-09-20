@@ -1,0 +1,32 @@
+{
+  "$id": "1209041",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "applicationUrl": "https://spotzer.recruitee.com/o/telesales-specialist",
+    "datePosted": "2023-07-06",
+    "description": "Are you a sales genius?\n\nDo you love connecting with people and working with an excellent team in Melbourne? Do you like to assist businesses grow and support them in gaining excellent custom digital",
+    "displayCoordinate": {
+      "latitude": -37.8136276,
+      "longitude": 144.9630576
+    },
+    "employmentType": "FULL_TIME",
+    "location": {
+      "externalLocation": "Melbourne, VIC, AU"
+    },
+    "name": "Telesales Specialist",
+    "workRemote": false,
+    "yextBoundingBox": {
+      "northEast": {
+        "latitude": -37.5112737,
+        "longitude": 145.5125288
+      },
+      "southWest": {
+        "latitude": -38.4338593,
+        "longitude": 144.5937418
+      }
+    }
+  },
+  "entityType": "job",
+  "labels": []
+}

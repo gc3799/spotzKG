@@ -1,0 +1,63 @@
+{
+  "$id": "service_06",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "keywords": [
+      "Youtube ads",
+      "Video ads"
+    ],
+    "landingPageUrl": "https://spotzerdigital.com/solutions/youtube-advertising/",
+    "name": "Youtube",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 202,
+          "sourceUrl": "https://a.mktgcdn.com/p/nbOADqWY_aPrKShNg5pFGzzEnz-8sLFfruhow2OX7gY/232x202.png",
+          "thumbnails": [
+            {
+              "height": 202,
+              "url": "https://a.mktgcdn.com/p-sandbox/nbOADqWY_aPrKShNg5pFGzzEnz-8sLFfruhow2OX7gY/232x202.png",
+              "width": 232
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/nbOADqWY_aPrKShNg5pFGzzEnz-8sLFfruhow2OX7gY/232x202.png",
+          "width": 232
+        }
+      }
+    ],
+    "richTextDescriptionV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Professional videos to help you build brand awareness. From a single promo video to a series of insightful webinars, we can do it all.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    }
+  },
+  "entityType": "product",
+  "labels": []
+}

@@ -1,0 +1,66 @@
+{
+  "$id": "service_01",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "keywords": [
+      "Webpage",
+      "Website",
+      "home page",
+      "site",
+      "html"
+    ],
+    "landingPageUrl": "https://spotzerdigital.com/solutions/websites/",
+    "name": "Websites",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 186,
+          "sourceUrl": "https://a.mktgcdn.com/p/RvRpiYziHSQMdGUaULpDJkZIClktC7-hAYNWdgjj1Js/230x186.png",
+          "thumbnails": [
+            {
+              "height": 186,
+              "url": "https://a.mktgcdn.com/p-sandbox/RvRpiYziHSQMdGUaULpDJkZIClktC7-hAYNWdgjj1Js/230x186.png",
+              "width": 230
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RvRpiYziHSQMdGUaULpDJkZIClktC7-hAYNWdgjj1Js/230x186.png",
+          "width": 230
+        }
+      }
+    ],
+    "richTextDescriptionV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Mobile-first websites tailored to help your SMB customers grow. Beautifully designed and filled with engaging copy for the best user experience and SEO.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    }
+  },
+  "entityType": "product",
+  "labels": []
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "zurich",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Zürich",
+      "countryCode": "CH",
+      "line1": "-",
+      "postalCode": "8000"
+    },
+    "emails": [
+      "partner@spotzer.com"
+    ],
+    "mainPhone": "+31203054100",
+    "name": "Zürich",
+    "timezone": "Europe/Zurich"
+  },
+  "entityType": "location",
+  "labels": []
+}

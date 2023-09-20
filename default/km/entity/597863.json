@@ -1,0 +1,32 @@
+{
+  "$id": "597863",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "applicationUrl": "https://spotzer.recruitee.com/o/swiss-german-copywriter-proofreader-freelance",
+    "datePosted": "2023-07-17",
+    "description": "Spotzer is a fast-paced, rapidly growing, global digital marketing business. Headquartered out of Amsterdam, we are serving tens of thousands of businesses across the world by building their websites,",
+    "displayCoordinate": {
+      "latitude": 47.3676537,
+      "longitude": 8.5460531
+    },
+    "employmentType": "CONTRACTOR",
+    "location": {
+      "externalLocation": "Zürich, AG, CH"
+    },
+    "name": "Swiss German Copywriter / Proofreader - Freelance",
+    "workRemote": true,
+    "yextBoundingBox": {
+      "northEast": {
+        "latitude": 47.434665,
+        "longitude": 8.625452899999999
+      },
+      "southWest": {
+        "latitude": 47.32021839999999,
+        "longitude": 8.448018099999999
+      }
+    }
+  },
+  "entityType": "job",
+  "labels": []
+}

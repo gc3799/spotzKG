@@ -1,0 +1,17 @@
+{
+  "$id": "faq_11",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "keywords": [
+      "Contact",
+      "Call",
+      "Email"
+    ],
+    "landingPageUrl": "https://spotzerdigital.com/contact-us/",
+    "name": "How can I get in touch?",
+    "question": "How can I get in touch?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

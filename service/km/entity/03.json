@@ -1,0 +1,64 @@
+{
+  "$id": "service_03",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "keywords": [
+      "Web shop",
+      "Online shop",
+      "Online shopping"
+    ],
+    "landingPageUrl": "https://spotzerdigital.com/solutions/e-commerce/",
+    "name": "E-Commerce",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 199,
+          "sourceUrl": "https://a.mktgcdn.com/p/Tj3cC_Kt5WRC0WMGjYdrVZDc8cXg8M0hbzMzlRAju_w/233x199.png",
+          "thumbnails": [
+            {
+              "height": 199,
+              "url": "https://a.mktgcdn.com/p-sandbox/Tj3cC_Kt5WRC0WMGjYdrVZDc8cXg8M0hbzMzlRAju_w/233x199.png",
+              "width": 233
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Tj3cC_Kt5WRC0WMGjYdrVZDc8cXg8M0hbzMzlRAju_w/233x199.png",
+          "width": 233
+        }
+      }
+    ],
+    "richTextDescriptionV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Give your customers the E-commerce edge. Our digital stores are the perfect choice when your customers want to take their business online.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    }
+  },
+  "entityType": "product",
+  "labels": []
+}

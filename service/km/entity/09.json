@@ -1,0 +1,59 @@
+{
+  "$id": "service_09",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://spotzerdigital.com/solutions/",
+    "name": "Migrations",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 470,
+          "sourceUrl": "https://a.mktgcdn.com/p/HzL2yj29OBg7Dp7-4tCIws3PLvJ9w9VEvAaIxJ2zms0/500x470.png",
+          "thumbnails": [
+            {
+              "height": 470,
+              "url": "https://a.mktgcdn.com/p-sandbox/HzL2yj29OBg7Dp7-4tCIws3PLvJ9w9VEvAaIxJ2zms0/500x470.png",
+              "width": 500
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HzL2yj29OBg7Dp7-4tCIws3PLvJ9w9VEvAaIxJ2zms0/500x470.png",
+          "width": 500
+        }
+      }
+    ],
+    "richTextDescriptionV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "We have extensive experience in migrating customers from a wide range of website platforms and environments, including in-house legacy systems.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    }
+  },
+  "entityType": "product",
+  "labels": []
+}

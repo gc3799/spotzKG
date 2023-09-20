@@ -1,0 +1,18 @@
+{
+  "$id": "faq_03",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "keywords": [
+      "Marketing solutions",
+      "solutions",
+      "services",
+      "products"
+    ],
+    "landingPageUrl": "https://spotzerdigital.com/solutions/",
+    "name": "What kind of marketing efforts do you specialize in?",
+    "question": "What kind of marketing efforts do you specialize in?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

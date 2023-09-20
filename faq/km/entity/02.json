@@ -1,0 +1,16 @@
+{
+  "$id": "faq_02",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "keywords": [
+      "Office hours",
+      "opening hours",
+      "working hours"
+    ],
+    "name": "What are the office hours?",
+    "question": "What are the office hours?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

@@ -1,0 +1,32 @@
+{
+  "$id": "1419786",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "nl",
+  "content": {
+    "applicationUrl": "https://spotzer.recruitee.com/o/phone-sales-consultant",
+    "datePosted": "2023-08-16",
+    "description": "Spotzer Digital is a fast paced, rapidly growing, global digital marketing business. We specialise in websites and digital marketing solutions. Headquartered out of Amsterdam, we are serving tens of t",
+    "displayCoordinate": {
+      "latitude": -37.8136276,
+      "longitude": 144.9630576
+    },
+    "employmentType": "FULL_TIME",
+    "location": {
+      "externalLocation": "Melbourne, VIC, AU"
+    },
+    "name": "Phone Sales Consultant",
+    "workRemote": false,
+    "yextBoundingBox": {
+      "northEast": {
+        "latitude": -37.5112737,
+        "longitude": 145.5125288
+      },
+      "southWest": {
+        "latitude": -38.4338593,
+        "longitude": 144.5937418
+      }
+    }
+  },
+  "entityType": "job",
+  "labels": []
+}

@@ -1,0 +1,59 @@
+{
+  "$id": "service_11",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "landingPageUrl": "https://spotzerdigital.com/solutions/",
+    "name": "Bespoke digital tools",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 459,
+          "sourceUrl": "https://a.mktgcdn.com/p/fx2PRPrKA_r4AfOmiJgntbsBBZGfK0-8tjc5Oggdlfs/500x459.png",
+          "thumbnails": [
+            {
+              "height": 459,
+              "url": "https://a.mktgcdn.com/p-sandbox/fx2PRPrKA_r4AfOmiJgntbsBBZGfK0-8tjc5Oggdlfs/500x459.png",
+              "width": 500
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fx2PRPrKA_r4AfOmiJgntbsBBZGfK0-8tjc5Oggdlfs/500x459.png",
+          "width": 500
+        }
+      }
+    ],
+    "richTextDescriptionV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "We can build robust APIs, proprietary Salesforce workflows for production, Customer Engagement Portals, briefing and QA tools, and more.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    }
+  },
+  "entityType": "product",
+  "labels": []
+}

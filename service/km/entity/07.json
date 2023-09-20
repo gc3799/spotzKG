@@ -1,0 +1,67 @@
+{
+  "$id": "service_07",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "keywords": [
+      "Strategy assistance",
+      "Strategy development",
+      "strategy consulting",
+      "project management",
+      "technology",
+      "Plan"
+    ],
+    "landingPageUrl": "https://spotzerdigital.com/solutions/consultancy/",
+    "name": "Consultancy",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 232,
+          "sourceUrl": "https://a.mktgcdn.com/p/fqs6E7tnaFBzznhCU0OssXDbSnucYS6LQhrgEmaHZzk/230x232.png",
+          "thumbnails": [
+            {
+              "height": 232,
+              "url": "https://a.mktgcdn.com/p-sandbox/fqs6E7tnaFBzznhCU0OssXDbSnucYS6LQhrgEmaHZzk/230x232.png",
+              "width": 230
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fqs6E7tnaFBzznhCU0OssXDbSnucYS6LQhrgEmaHZzk/230x232.png",
+          "width": 230
+        }
+      }
+    ],
+    "richTextDescriptionV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Leverage our 15 years of experience in digital marketing. We offer strategy development, project management, technology consultancy, and more.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    }
+  },
+  "entityType": "product",
+  "labels": []
+}
